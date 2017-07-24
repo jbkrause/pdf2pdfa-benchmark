@@ -1,0 +1,3 @@
+Author: Jan Krause
+First version date: 2017-07-21 
+Licence: GNU-GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
